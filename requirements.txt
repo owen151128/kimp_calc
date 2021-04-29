@@ -1,0 +1,4 @@
+requests==2.25.1
+pyupbit==0.2.14
+ccxt==1.49.8
+rich==10.1.0
